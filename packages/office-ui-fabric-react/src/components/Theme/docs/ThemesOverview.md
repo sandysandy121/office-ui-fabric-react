@@ -11,7 +11,7 @@ import { loadTheme } from 'office-ui-fabric-react';
 
 loadTheme({
   palette: {
-    themePrimary: '#0078d4',
+    themePrimary: '#ef3e2d',
     themeLighterAlt: '#eff6fc',
     themeLighter: '#deecf9',
     themeLight: '#c7e0f4',
